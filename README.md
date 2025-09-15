@@ -21,7 +21,7 @@ The app allows managing contacts and users securely, using a two-layer architect
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Phonebook.git
+   git clone https://github.com/Sparrowfish/Phonebook.git
 2. Open the solution in Visual Studio 2022
 
 3. Make sure SQL Server is installed locally
