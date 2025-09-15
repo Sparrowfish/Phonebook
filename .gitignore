@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build Folders
+bin/
+obj/
+Debug/
+Release/
+
+# NuGet Packages
+packages/
+*.nupkg
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+
+# ResX Designer files (auto-generated)
+*.Designer.cs
+
+# Database files
+*.mdf
+*.ldf
